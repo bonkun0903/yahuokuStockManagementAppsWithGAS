@@ -31,3 +31,9 @@
 # 機能解説
 
 スプレッドシート上からの各種機能の利用方法を解説します。
+
+# 本番運用ツールURL
+
+・[ヤフオク在庫管理一覧](https://docs.google.com/spreadsheets/d/1ICG7NRw8pr6-j_6nzAlw2xqT4mvcCBkZrt-UcZwlQPY/edit)
+
+・[ヤフオク出品商品画像](https://drive.google.com/drive/folders/1i6wrttutHf2p8jTGNn2QQhPD8SkehLvM)
