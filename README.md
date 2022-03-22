@@ -20,7 +20,11 @@
 → <br>
 <br>
 ・商品単位で在庫シールを既存のレイアウトに当てはめて一括印刷したい。<br>
-→ inventory-seal-layout.jsで実現
+→ inventory-seal-layout.jsで実現<br>
+<br>
+・商品説明HTMLを登録情報から一括生成したい。<br>
+→ <br>
+<br>
 
 # 関連ツール
 
