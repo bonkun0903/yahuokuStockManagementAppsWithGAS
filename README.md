@@ -1,4 +1,4 @@
-# yahuokuStockManagementApps
+# yahuokuStockManagementAppsWithGAS
 
 ヤフオクストア向け商品の在庫管理システムをGoogleAppsScriptとスプレッドシートで開発します。<br>
 
@@ -17,6 +17,7 @@
 → <br>
 <br>
 ・レビューのやり取りをSlack通知したい。<br>
+
 → <br>
 <br>
 ・商品単位で在庫シールを既存のレイアウトに当てはめて一括印刷したい。<br>
